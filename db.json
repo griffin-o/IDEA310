@@ -1,5 +1,6 @@
 {
   "posts": [
+    { "id": 0, "title": "Post 0", "comments": "Hello World!" },
     { "id": 1, "title": "Post 1", "comments": "Great project!" },
     { "id": 2, "title": "Post 2", "comments": "IDEA310 has been really fun!" },
     { "id": 3, "title": "Post 3", "comments": "What else can I do with this?" }
